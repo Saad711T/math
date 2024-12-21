@@ -1,0 +1,63 @@
+\documentclass[12pt]{article}
+
+\usepackage{amsmath}  % For mathematical symbols and equations
+\usepackage{amssymb}  % For additional math symbols
+\usepackage{geometry} % To control page margins
+\geometry{a4paper, margin=1in}
+
+\usepackage{hyperref} % To include hyperlinks
+\usepackage{fancyhdr} % To customize the header and footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{Probability and Statistics} 
+\fancyfoot[C]{\thepage}
+
+\title{Measures of Variability}
+\author{Saad Almalki}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction} 
+Measures of Variability, like central tendency, are important concepts in probability and statistics in math.
+
+Some of these measures of variability are: the variance, standard deviation, and range.
+
+\section{Range} 
+The range is one of the important Measures of Variability. The range is simple to calculate: it is the maximum number minus the minimum number.\\
+\textbf{Example:}\
+$1, 2, 3, 4, 5$\\
+The range is: 
+\[ 5 - 1 = 4 \]
+
+\section{Variance}
+The variance is a measure of how data points differ from the mean.\\
+\textbf{Example:}\
+$2, 4, 6, 8, 10$\\
+The mean here is:
+\[
+\frac{2 + 4 + 6 + 8 + 10}{5} = \frac{30}{5} = 6
+\]
+The variance is calculated as:
+\[
+\frac{(2-6)^2 + (4-6)^2 + (6-6)^2 + (8-6)^2 + (10-6)^2}{5} = \frac{16 + 4 + 0 + 4 + 16}{5} = \frac{40}{5} = 8
+\]
+
+\section{Standard Deviation}
+The standard deviation is the square root of the variance and provides a measure of the spread of data around the mean.\\
+\textbf{Example:}\
+$2, 4, 6, 8, 10$\\
+The variance is 8 (as calculated previously).\\
+The standard deviation is:
+\[
+\sqrt{8} \approx 2.83
+\]
+
+\begin{flushright}
+Created by: Saad Almalki \\
+Using: \LaTeX
+\end{flushright}
+
+\end{document}
