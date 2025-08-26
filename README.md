@@ -15,7 +15,8 @@
 ### Tools and languages
 - `Python` : Programming language using widely in math programming and scientific computing
 - `LaTeX` : Markup language using for writing a documents
-- `MATLAB` : Programming language using primarly in scientific computing.
+- `MATLAB` : Programming language using primarly in scientific computing
+- `R` : Programming language using for statistical things and data analysis.
 
 
 
