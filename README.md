@@ -1,11 +1,17 @@
-# Mathematical Projects | مشاريع الرياضيات
-## في هذه الصفحة سيتم تقديم المشاريع الرياضية والبرمجية المتعلقة بالرياضيات والمواضيع الخاصة بها , قد تكون مستندات PDF - مشاريع برمجة خاصة بالرياضيات - صفحات ومقالات كتبتها بالـLaTeX - وما إلى ذلك , تعتبر الرياضيات من أهم الأشياء المرتبطة بعلم البيانات الذي أدرسه حاليا
+# Mathematics projects
 
-### النقاط الرئيسية التي سأركز عليها :
-- أساسيات الرياضيات
-- الإحتمالات والإحصاء
-- الجبر الخطي
-- البرمجة بلغة R
-- التحليل الرياضي
-- التعامل مع مكتبات NumPy و Pandas في بايثون بالرياضيات
-- الرياضيات وعلم البيانات (Data Science) .
+## Sections
+- Fundamentals of math / Discrete math
+- Probability and Statisitcs
+- Operations Research
+- Linear Algebra
+
+### Tools and languages
+- `Python` : Programming language using widely in math programming and scientific computing
+- `LaTeX` : Markup language using for writing a documents
+- `MATLAB` : Programming language using primarly in scientific computing.
+
+
+
+#### Credits
+[0xSaad](https://x.com/0xdonzdev)
